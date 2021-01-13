@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Yuansun Jiang (Sonny)"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpeg"
   bio              : "A simple blog of Data Science topics and etc."
   location         : "Somewhere"
   email            :
